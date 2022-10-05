@@ -49,7 +49,7 @@ const Skills = () => {
                 <GitHubCalendar
                     hideColorLegend
                     hideTotalCount
-                    username="grubersjoe"
+                    username="kunalpratapsinghh"
                 />
             </div>
         </div>
