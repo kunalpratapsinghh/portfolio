@@ -1,0 +1,161 @@
+{
+    "name": "Kunal Pratap Singh",
+    "image": "/me.png",
+    "profession": "FullStack web developer",
+    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+    "about": "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "website": "",
+    "skills": [
+        {
+            "src": "/logos/react.svg",
+            "name": "React",
+            "link": "https://reactjs.org/"
+        },
+        {
+            "src": "/logos/nextjs.svg",
+            "name": "Next",
+            "link": "https://nextjs.org/"
+        },
+        {
+            "src": "/logos/typescript.svg",
+            "name": "Typescript",
+            "link": "https://www.typescriptlang.org/"
+        },
+        {
+            "src": "/logos/mongodb.svg",
+            "name": "MongoDB",
+            "link": "https://www.mongodb.com/docs/"
+        },
+        {
+            "src": "/logos/chakra.png",
+            "name": "ChakraUI",
+            "link": "https://chakra-ui.com/getting-started"
+        },
+        {
+            "src": "/logos/html.png",
+            "name": "HTML",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+            "src": "/logos/css.png",
+            "name": "CSS",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+        },
+        {
+            "src": "/logos/nodejs.png",
+            "name": "Nodejs",
+            "link": "https://nodejs.org/"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Beauty bebo clone",
+            "image": "/projects/beautybebo.jpg",
+            "about": "We cloned this website in a span of seven days. The Tech stack used is Html CSS javascript.Various UI like slideshow,login-signup, payment etc are eye-catching.javascript functionality like API, local storage, slide show with the help of set interval etc is used.",
+            "tech": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "links": {
+                "GitHub": "https://github.com/KaustubhBadve/Beutybebo-Cloned",
+                "Live": "https://elegant-centaur-093589.netlify.app/"
+            },
+            "role": "Fullstack web3 developer"
+        },
+        {
+            "name": "Licious Clone",
+            "image": "/projects/licious.png",
+            "about": "This is our first project at Masai School using JavaScript, HTML, and CSS.We worked on the Licious website, an online Non-Vegetarian Food selling store.",
+            "tech": [
+                "VScode",
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "links": {
+                "GitHub": "https://github.com/g-utsav/LiciousClone",
+                "Live": "https://earnest-muffin-f6f57e.netlify.app/"
+            },
+            "role": "Lead developer"
+        },
+        {
+            "name": "Authentication & Api Call",
+            "image": "/projects/cynohub.png",
+            "about": "This Project consist signup snd login with the help of mongoDB database, without login you will not be able to see any pages . For the UI ,Chakra-UI is used.",
+            "tech": [
+                "Node.js",
+                "React.js",
+                "CSS",
+                "JavaScript",
+                "Mongodb",
+                "ChakraUI"
+            ],
+            "links": {
+                "GitHub": "https://github.com/kunalpratapsinghh/cynohub",
+                "Live": "https://cynohubkunal.netlify.app/"
+            },
+            "role": "Co-builder"
+        },
+        {
+            "name": "Lifestylestores clone",
+            "image": "/projects/life.png",
+            "about": "A lifestyle store is a retail store selling a wide variety of product categories under a single brand. It is designed to associate a brand with one or another aspirational lifestyle. Lifestyle stores may include clothing, housewares, furniture, stationery, gifts, and so on.",
+            "tech": [
+                "Node.js",
+                "React.js",
+                "CSS",
+                "JavaScript",
+                "ChakraUI"
+            ],
+            "links": {
+                "GitHub": "https://github.com/kunalpratapsinghh/cynohub",
+                "Live": "https://cynohubkunal.netlify.app/"
+            },
+            "role": "Co-builder"
+        }
+    ],
+    "testimonials": [
+        {
+            "value": "FullStack web Development",
+            "name": "Masai School",
+            "relation": "Jan 2022 - Nov 2022",
+            "pfp": "/masai.png",
+            "link": "https://www.masaischool.com/"
+        },
+        {
+            "value": "B.Tech in Civil Engineering",
+            "name": "Dr BC roy Engineering College",
+            "relation": "Aug 2014 - Nov 2018",
+            "pfp": "/bcrec.jpg",
+            "link": "https://bcrec.ac.in/"
+        }
+    ],
+    "links": [
+        {
+            "name": "LinkedIn",
+            "icon": "linkedin.svg",
+            "link": "https://www.linkedin.com/in/kunal-singh-601342230/"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github.svg",
+            "link": "https://github.com/kunalpratapsinghh"
+        },
+        {
+            "name": "Twitter",
+            "icon": "twitter.svg",
+            "link": "https://twitter.com/orthodoxrajput"
+        },
+        {
+            "name": "Mail me",
+            "icon": "mail.svg",
+            "link": "mailto:1.3kunal.tt@gmail.com"
+        },
+        {
+            "name": "Instagram",
+            "icon": "instagram.svg",
+            "link": "https://instagram.com/kunalabcd"
+        }
+    ]
+}
