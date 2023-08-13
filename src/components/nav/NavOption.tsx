@@ -9,8 +9,7 @@ interface INavOption {
     number: number;
 }
 
-const NavOption: FC<INavOption> = ({ item, number }) => {
-    console.log(number);
+const NavOption: FC<INavOption> = ({ item }) => {
     return (
         <p className="border-b-2 border-transparent cursor-pointer text-text hover:border-neon">
             <Link

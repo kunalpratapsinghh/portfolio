@@ -7,7 +7,7 @@ import GitHubCalendar from 'react-github-calendar';
 const Skills = () => {
     return (
         <div id="skills">
-            <Title num={4} title="Skills" />
+            <Title num={5} title="Skills" />
 
             <div className="flex flex-wrap items-center justify-center mt-10 space-x-6 md:space-x-10 md:items-start md:justify-start">
                 {data.skills.map((skill, i) => (

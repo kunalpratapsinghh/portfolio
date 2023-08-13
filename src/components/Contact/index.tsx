@@ -22,6 +22,7 @@ const Contact = () => {
                     <div key={i}>
                         <ContactButtons
                             icon={link.icon}
+                            key={i}
                             link={link.link}
                             marginLeft={i === 0 ? 'ml-0' : 'ml-6 md:ml-10'}
                             name={link.name}

@@ -4,6 +4,10 @@ const navOptions = [
         href: 'about',
     },
     {
+        name: 'experience',
+        href: 'experience',
+    },
+    {
         name: 'Education',
         href: 'testimonials',
     },

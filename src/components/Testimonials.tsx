@@ -5,7 +5,7 @@ import Image from 'next/image';
 const Testimonials = () => {
     return (
         <div id="testimonials">
-            <Title num={2} title="Education" />
+            <Title num={3} title="Education" />
 
             <div className="flex w-screen px-4  space-x-10 overflow-scroll hideScrollBar md:mx-auto md:-mr-0">
                 {data.testimonials.map((testimonial, i) => (

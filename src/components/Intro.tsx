@@ -53,7 +53,7 @@ const Intro = () => {
                     </button>
                 </Link>
                 <a
-                    href="https://drive.google.com/file/d/1tmMFRnqqqdGCPH_cKNiim2iJKF_gAsKU/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1dZppkR0Xy0mVVSwvnVo6ePIvm3yShB9J/view?usp=sharing"
                     rel="noreferrer"
                     target={'_blank'}
                 >

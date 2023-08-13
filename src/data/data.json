@@ -115,6 +115,22 @@
             "role": "Co-builder"
         }
     ],
+    "experience": [
+        {
+            "organisation":"Actyv.ai",
+            "work":["Developed actyv.ai’s e-KYC verification platform with microservice architecture on the MERN stack, en-abling fully automatic identity verification and fraud detection.",
+            "Achieved results, reducing distributor onboarding time from 1 week to 2 hours and efficiently processing 12k+ verifications across 2 countries.",
+            "Responsible for operational excellence of platform which involved prevention and mitigation of issues eg. memory leak, VAPT, code review and quality assurance, user support and communication etc.",
+            "Developed multiple distributed background plugins, utilizing SQS and lambda, to enable smooth verification processes for Aadhaar, ITR, Driving license, Voter ID, CIN, PAN, Udyam, Passport OCR (valid for all countries), ESign, DigiLocker, and Emirates ID (UAE).",
+            "Developed and implemented responsive UI for all fraud checks using React and Redux, ensuring a seamless user experience across various devices."
+            
+            
+            ],
+            "name":"Actyv.ai",
+            "link":"https://www.actyv.ai",
+            "time": "Nov 2022 - Aug 2023"
+        }
+    ],
     "testimonials": [
         {
             "value": "FullStack web Development",
