@@ -8,8 +8,6 @@ import Projects from '@/components/Projects';
 import Skills from '@/components/Skills';
 import Testimonials from '@/components/Testimonials';
 import { PostType } from '@/types/PostType';
-import getPosts from '@/utils/getPosts';
-import { GetStaticProps } from 'next';
 import React, { FC } from 'react';
 
 interface Props {
@@ -32,14 +30,3 @@ const Home: FC<Props> = () => {
 };
 
 export default Home;
-
-export const getStaticProps: GetStaticProps = async () => {
-    const Posts = await getPosts('avneesh0612');
-
-    return {
-        props: {
-            Posts: Posts.publication.posts,
-        },
-        revalidate: 600,
-    };
-};

@@ -1,5 +1,5 @@
 import data from '@/data/data.json';
-import { Html, Main, NextScript, Head } from 'next/document';
+import { Html, NextScript, Head } from 'next/document';
 
 const Document = () => {
     return (
@@ -20,12 +20,10 @@ const Document = () => {
                     content="Kunal, Singh, Kunal Singh, web dev"
                     name="keywords"
                 />
-                <link href="/manifest.json" rel="manifest" />
                 <link href="/icon.png" rel="apple-touch-icon"></link>
                 <meta content="#fff" name="theme-color" />
             </Head>
             <body>
-                <Main />
                 <NextScript />
             </body>
         </Html>
