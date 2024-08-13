@@ -117,6 +117,19 @@
     ],
     "experience": [
         {
+            "organisation": "Actyv.ai",
+            "work": [
+                "Set up CRM integration for easy Excel uploads, helping QA teams in BPO audits. Also, created a strong Excel filtering system to better manage and analyze data. Features include saving filters and random assignment, covering various criteria like call duration and time range.",
+                "Designed a notice feed allowing admins and QAs to post, with acknowledgment and commenting features for agents, admins, and QAs; creators can also delete and hide posts.",
+                "Developed a dynamic audit sheet with editable parameters and subparameters, including weightage assignment. Integrated custom field functionality in audit sheet using form renderer to capture data effectively",
+                "Designed a test interface accessible to both agents and admins. Agents can complete tests, while admins have the capability to create new tests directly within the interface.",
+                "Developed an AI co-pilot to aid QA in call auditing. Leveraging Deepgram for transcription and Langchain for OpenAI calls, it assists in analyzing and evaluating call content efficiently."
+            ],
+            "name": "Omind",
+            "link": "https://www.omind.ai/",
+            "time": "Oct 2023 - Present"
+        },
+        {
             "organisation":"Actyv.ai",
             "work":["Developed actyv.ai’s e-KYC verification platform with microservice architecture on the MERN stack, en-abling fully automatic identity verification and fraud detection.",
             "Achieved results, reducing distributor onboarding time from 1 week to 2 hours and efficiently processing 12k+ verifications across 2 countries.",

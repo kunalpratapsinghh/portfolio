@@ -18,7 +18,7 @@ const About = () => {
                         alt={data.name}
                         className="rounded-full"
                         layout="fill"
-                        objectFit="contain"
+                        objectFit="cover"
                         src={data.image}
                     />
                 </div>
