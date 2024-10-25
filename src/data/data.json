@@ -163,7 +163,7 @@
             "link": "https://www.masaischool.com/"
         },
         {
-            "value": "B.Tech in Civil Engineering",
+            "value": "Bachelor of Technology (B. Tech.)",
             "name": "Dr BC roy Engineering College",
             "relation": "Aug 2014 - Nov 2018",
             "pfp": "/bcrec.jpg",
@@ -174,7 +174,7 @@
         {
             "name": "LinkedIn",
             "icon": "linkedin.svg",
-            "link": "https://www.linkedin.com/in/kunal-singh-601342230/"
+            "link": "https://www.linkedin.com/in/kunalabcd"
         },
         {
             "name": "GitHub",
@@ -189,7 +189,17 @@
         {
             "name": "Mail me",
             "icon": "mail.svg",
-            "link": "kunalpratap17@gmail.com"
+            "link": "mailto:kunalpratap17@gmail.com"
+        },
+        {
+            "name": "Call me",
+            "icon": "call.svg",
+            "link": "tel:+918906694875"
+        },
+        {
+            "name": "Whatsapp me",
+            "icon": "whatsapp.svg",
+            "link": "https://wa.me/+918906694875"
         },
         {
             "name": "Instagram",

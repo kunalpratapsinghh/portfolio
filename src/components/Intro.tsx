@@ -53,7 +53,7 @@ const Intro = () => {
                     </button>
                 </Link>
                 <a
-                    href="https://drive.google.com/file/d/1tmMFRnqqqdGCPH_cKNiim2iJKF_gAsKU/view?usp=sharing"
+                    href="/Kunal_Pratap_Singh_Resume.pdf"
                     rel="noreferrer"
                     target={'_blank'}
                 >
