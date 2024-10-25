@@ -177,16 +177,6 @@
             "link": "https://www.linkedin.com/in/kunalabcd"
         },
         {
-            "name": "GitHub",
-            "icon": "github.svg",
-            "link": "https://github.com/kunalpratapsinghh"
-        },
-        {
-            "name": "Twitter",
-            "icon": "twitter.svg",
-            "link": "https://twitter.com/orthodoxrajput"
-        },
-        {
             "name": "Mail me",
             "icon": "mail.svg",
             "link": "mailto:kunalpratap17@gmail.com"
@@ -197,9 +187,19 @@
             "link": "tel:+918906694875"
         },
         {
-            "name": "Whatsapp me",
+            "name": "WhatsApp me",
             "icon": "whatsapp.svg",
             "link": "https://wa.me/+918906694875"
+        },
+        {
+            "name": "GitHub",
+            "icon": "github.svg",
+            "link": "https://github.com/kunalpratapsinghh"
+        },
+        {
+            "name": "Twitter",
+            "icon": "twitter.svg",
+            "link": "https://twitter.com/orthodoxrajput"
         },
         {
             "name": "Instagram",
