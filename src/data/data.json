@@ -117,7 +117,20 @@
     ],
     "experience": [
         {
-            "organisation": "Actyv.ai",
+          "organisation": "Reward360 Global Services",
+            "work":[
+  "Built a concierge service platform for agents using React (Vite) and Tailwind CSS, featuring login, customer verification, service request management (flights, hotels, golf), and support for dynamic theming.",
+  "Implemented real-time agent status updates (Idle, Busy, Incoming, etc.) using Socket.IO, improving agent availability tracking.",
+  "Integrated multiple OTA APIs (Yatra, EaseMyTrip, Goibibo) to fetch travel data with fare matrix support for flexible date search.",
+  "Designed a smart service request form with pre-filled fields based on booking type to reduce ACW and AHT, increasing agent efficiency.",
+  "Built internal search using Strapi CMS to show best-rated services based on customer queries."
+],
+             "name": "Reward360 Global Services",
+            "link": "https://www.reward360.co/",
+            "time": "Jan 2025 - Present"
+        },
+        {
+            "organisation": "Omind",
             "work": [
                 "Set up CRM integration for easy Excel uploads, helping QA teams in BPO audits. Also, created a strong Excel filtering system to better manage and analyze data. Features include saving filters and random assignment, covering various criteria like call duration and time range.",
                 "Designed a notice feed allowing admins and QAs to post, with acknowledgment and commenting features for agents, admins, and QAs; creators can also delete and hide posts.",
@@ -127,7 +140,7 @@
             ],
             "name": "Omind",
             "link": "https://www.omind.ai/",
-            "time": "Oct 2023 - Present"
+            "time": "Oct 2023 - Jan 2025"
         },
         {
             "organisation":"Actyv.ai",
@@ -142,16 +155,6 @@
             "name":"Actyv.ai",
             "link":"https://www.actyv.ai",
             "time": "Nov 2022 - Aug 2023"
-        },
-        {
-            "organisation":"Cartificer",
-            "work":["Led the setup and maintenance of Cartificer's online store, making it easy for customers to find car services like cleaning and repairs. This made customers happier and more engaged.",
-            "Created a way for customers to give feedback in real-time on Cartificer's website. This helped improve services, including car repairs, and kept customers coming back.",
-            "Made sure paying for services on Cartificer's website was safe and easy, including for car repairs. This made customers trust the site more and helped the business grow.","Enabled customers to book appointments, check services, and access special offers effortlessly through Cartificer's mobile-friendly platform, expanding accessibility and improving service quality, including for car repairs."
-            ],
-            "name":"Cartificer",
-            "link":"https://www.linkedin.com/company/cartificer",
-            "time": "May 2020 - Nov 2022"
         }
     ],
     "testimonials": [
