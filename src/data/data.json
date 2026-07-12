@@ -1,7 +1,7 @@
 {
     "name": "Kunal Pratap Singh",
     "image": "/me.png",
-    "profession": "FullStack web developer",
+    "profession": "Senior Software Engineer",
     "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
     "about": "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
     "website": "",
@@ -45,6 +45,71 @@
             "src": "/logos/nodejs.png",
             "name": "Nodejs",
             "link": "https://nodejs.org/"
+        },
+        {
+            "src": "/logos/sql.svg",
+            "name": "SQL",
+            "link": "https://www.w3schools.com/sql/"
+        },
+        {
+            "src": "/logos/express.svg",
+            "name": "Express.js",
+            "link": "https://expressjs.com/"
+        },
+        {
+            "src": "/logos/nestjs.svg",
+            "name": "NestJS",
+            "link": "https://nestjs.com/"
+        },
+        {
+            "src": "/logos/strapi.svg",
+            "name": "Strapi CMS",
+            "link": "https://strapi.io/"
+        },
+        {
+            "src": "/logos/socketio.svg",
+            "name": "Socket.IO",
+            "link": "https://socket.io/"
+        },
+        {
+            "src": "/logos/trpc.svg",
+            "name": "tRPC",
+            "link": "https://trpc.io/"
+        },
+        {
+            "src": "/logos/aws.svg",
+            "name": "AWS",
+            "link": "https://aws.amazon.com/"
+        },
+        {
+            "src": "/logos/knative.svg",
+            "name": "Knative",
+            "link": "https://knative.dev/"
+        },
+        {
+            "src": "/logos/docker.svg",
+            "name": "Docker",
+            "link": "https://www.docker.com/"
+        },
+        {
+            "src": "/logos/mysql.svg",
+            "name": "MySQL",
+            "link": "https://www.mysql.com/"
+        },
+        {
+            "src": "/logos/postgresql.svg",
+            "name": "PostgreSQL",
+            "link": "https://www.postgresql.org/"
+        },
+        {
+            "src": "/logos/openai.svg",
+            "name": "OpenAI",
+            "link": "https://openai.com/"
+        },
+        {
+            "src": "/logos/langchain.svg",
+            "name": "LangChain",
+            "link": "https://www.langchain.com/"
         }
     ],
     "projects": [
@@ -119,15 +184,17 @@
         {
           "organisation": "Reward360 Global Services",
             "work":[
-  "Built a concierge service platform for agents using React (Vite) and Tailwind CSS, featuring login, customer verification, service request management (flights, hotels, golf), and support for dynamic theming.",
-  "Implemented real-time agent status updates (Idle, Busy, Incoming, etc.) using Socket.IO, improving agent availability tracking.",
-  "Integrated multiple OTA APIs (Yatra, EaseMyTrip, Goibibo) to fetch travel data with fare matrix support for flexible date search.",
-  "Designed a smart service request form with pre-filled fields based on booking type to reduce ACW and AHT, increasing agent efficiency.",
-  "Built internal search using Strapi CMS to show best-rated services based on customer queries."
+  "Architected Loyalty OS, a configuration-driven travel integration platform that standardized OTA contracts/APIs, reducing new provider onboarding time by 80%.",
+  "Designed and developed high-performance Flights, Hotels, and Bus booking modules, including hotel listings, checkout flows, fare comparison, and multi-date pricing.",
+  "Integrated multiple OTA providers (Yatra, MMT, Cleartrip, etc.) using concurrent API orchestration, significantly improving hotel search and detail page response times.",
+  "Built an Internal Developer Platform (IDP) using Next.js, Monaco Editor, and Knative FaaS, enabling developers to create, test, and deploy serverless handlers through a unified interface.",
+  "Developed a real-time Agent Concierge Platform using React, Tailwind CSS, and Socket.IO, featuring live agent monitoring and booking management that reduced call handling latency by 20%.",
+  "Implemented geospatial hotel discovery using React-Leaflet with a fully responsive UI, improving travel search usability across desktop and mobile devices."
 ],
              "name": "Reward360 Global Services",
             "link": "https://www.reward360.co/",
-            "time": "Jan 2025 - Present"
+            "time": "Jan 2025 - Present",
+            "role": "Senior Software Engineer"
         },
         {
             "organisation": "Omind",

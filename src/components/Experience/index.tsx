@@ -8,7 +8,6 @@ const Experience = () => {
             <Title num={2} title="Experience" />
             <div className="flex flex-col mt-10">
                 {data.experience.map((project: any, i: number) => (
-                    // eslint-disable-next-line react/jsx-key
                     <div key={i}>
                         <p>
                             <a
