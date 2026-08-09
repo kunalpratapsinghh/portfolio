@@ -1,280 +1,264 @@
 {
-    "name": "Kunal Pratap Singh",
-    "image": "/me.png",
-    "profession": "Senior Software Engineer",
-    "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
-    "about": "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-    "website": "",
-    "skills": [
-        {
-            "src": "/logos/react.svg",
-            "name": "React",
-            "link": "https://reactjs.org/"
-        },
-        {
-            "src": "/logos/nextjs.svg",
-            "name": "Next",
-            "link": "https://nextjs.org/"
-        },
-        {
-            "src": "/logos/typescript.svg",
-            "name": "Typescript",
-            "link": "https://www.typescriptlang.org/"
-        },
-        {
-            "src": "/logos/mongodb.svg",
-            "name": "MongoDB",
-            "link": "https://www.mongodb.com/docs/"
-        },
-        {
-            "src": "/logos/chakra.png",
-            "name": "ChakraUI",
-            "link": "https://chakra-ui.com/getting-started"
-        },
-        {
-            "src": "/logos/html.png",
-            "name": "HTML",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
-        },
-        {
-            "src": "/logos/css.png",
-            "name": "CSS",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
-        },
-        {
-            "src": "/logos/nodejs.png",
-            "name": "Nodejs",
-            "link": "https://nodejs.org/"
-        },
-        {
-            "src": "/logos/sql.svg",
-            "name": "SQL",
-            "link": "https://www.w3schools.com/sql/"
-        },
-        {
-            "src": "/logos/express.svg",
-            "name": "Express.js",
-            "link": "https://expressjs.com/"
-        },
-        {
-            "src": "/logos/nestjs.svg",
-            "name": "NestJS",
-            "link": "https://nestjs.com/"
-        },
-        {
-            "src": "/logos/strapi.svg",
-            "name": "Strapi CMS",
-            "link": "https://strapi.io/"
-        },
-        {
-            "src": "/logos/socketio.svg",
-            "name": "Socket.IO",
-            "link": "https://socket.io/"
-        },
-        {
-            "src": "/logos/trpc.svg",
-            "name": "tRPC",
-            "link": "https://trpc.io/"
-        },
-        {
-            "src": "/logos/aws.svg",
-            "name": "AWS",
-            "link": "https://aws.amazon.com/"
-        },
-        {
-            "src": "/logos/knative.svg",
-            "name": "Knative",
-            "link": "https://knative.dev/"
-        },
-        {
-            "src": "/logos/docker.svg",
-            "name": "Docker",
-            "link": "https://www.docker.com/"
-        },
-        {
-            "src": "/logos/mysql.svg",
-            "name": "MySQL",
-            "link": "https://www.mysql.com/"
-        },
-        {
-            "src": "/logos/postgresql.svg",
-            "name": "PostgreSQL",
-            "link": "https://www.postgresql.org/"
-        },
-        {
-            "src": "/logos/openai.svg",
-            "name": "OpenAI",
-            "link": "https://openai.com/"
-        },
-        {
-            "src": "/logos/langchain.svg",
-            "name": "LangChain",
-            "link": "https://www.langchain.com/"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Beauty bebo clone",
-            "image": "/projects/beautybebo.jpg",
-            "about": "We cloned this website in a span of seven days. The Tech stack used is Html CSS javascript.Various UI like slideshow,login-signup, payment etc are eye-catching.javascript functionality like API, local storage, slide show with the help of set interval etc is used.",
-            "tech": [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "links": {
-                "GitHub": "https://github.com/KaustubhBadve/Beutybebo-Cloned",
-                "Live": "https://elegant-centaur-093589.netlify.app/"
-            },
-            "role": "Fullstack web3 developer"
-        },
-        {
-            "name": "Licious Clone",
-            "image": "/projects/licious.png",
-            "about": "This is our first project at Masai School using JavaScript, HTML, and CSS.We worked on the Licious website, an online Non-Vegetarian Food selling store.",
-            "tech": [
-                "VScode",
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ],
-            "links": {
-                "GitHub": "https://github.com/g-utsav/LiciousClone",
-                "Live": "https://earnest-muffin-f6f57e.netlify.app/"
-            },
-            "role": "Lead developer"
-        },
-        {
-            "name": "Authentication & Api Call",
-            "image": "/projects/cynohub.png",
-            "about": "This Project consist signup snd login with the help of mongoDB database, without login you will not be able to see any pages . For the UI ,Chakra-UI is used.",
-            "tech": [
-                "Node.js",
-                "React.js",
-                "CSS",
-                "JavaScript",
-                "Mongodb",
-                "ChakraUI"
-            ],
-            "links": {
-                "GitHub": "https://github.com/kunalpratapsinghh/cynohub",
-                "Live": "https://cynohubkunal.netlify.app/"
-            },
-            "role": "Co-builder"
-        },
-        {
-            "name": "Lifestylestores clone",
-            "image": "/projects/life.png",
-            "about": "A lifestyle store is a retail store selling a wide variety of product categories under a single brand. It is designed to associate a brand with one or another aspirational lifestyle. Lifestyle stores may include clothing, housewares, furniture, stationery, gifts, and so on.",
-            "tech": [
-                "Node.js",
-                "React.js",
-                "CSS",
-                "JavaScript",
-                "ChakraUI"
-            ],
-            "links": {
-                "GitHub": "https://github.com/kunalpratapsinghh/Lifestylestores_Clone",
-                "Live": "https://dazzling-semifreddo-d2378f.netlify.app/"
-            },
-            "role": "Co-builder"
-        }
-    ],
-    "experience": [
-        {
-          "organisation": "Reward360 Global Services",
-            "work":[
-  "Architected Loyalty OS, a configuration-driven travel integration platform that standardized OTA contracts/APIs, reducing new provider onboarding time by 80%.",
-  "Designed and developed high-performance Flights, Hotels, and Bus booking modules, including hotel listings, checkout flows, fare comparison, and multi-date pricing.",
-  "Integrated multiple OTA providers (Yatra, MMT, Cleartrip, etc.) using concurrent API orchestration, significantly improving hotel search and detail page response times.",
-  "Built an Internal Developer Platform (IDP) using Next.js, Monaco Editor, and Knative FaaS, enabling developers to create, test, and deploy serverless handlers through a unified interface.",
-  "Developed a real-time Agent Concierge Platform using React, Tailwind CSS, and Socket.IO, featuring live agent monitoring and booking management that reduced call handling latency by 20%.",
-  "Implemented geospatial hotel discovery using React-Leaflet with a fully responsive UI, improving travel search usability across desktop and mobile devices."
-],
-             "name": "Reward360 Global Services",
-            "link": "https://www.reward360.co/",
-            "time": "Jan 2025 - Present",
-            "role": "Senior Software Engineer"
-        },
-        {
-            "organisation": "Omind",
-            "work": [
-                "Set up CRM integration for easy Excel uploads, helping QA teams in BPO audits. Also, created a strong Excel filtering system to better manage and analyze data. Features include saving filters and random assignment, covering various criteria like call duration and time range.",
-                "Designed a notice feed allowing admins and QAs to post, with acknowledgment and commenting features for agents, admins, and QAs; creators can also delete and hide posts.",
-                "Developed a dynamic audit sheet with editable parameters and subparameters, including weightage assignment. Integrated custom field functionality in audit sheet using form renderer to capture data effectively",
-                "Designed a test interface accessible to both agents and admins. Agents can complete tests, while admins have the capability to create new tests directly within the interface.",
-                "Developed an AI co-pilot to aid QA in call auditing. Leveraging Deepgram for transcription and Langchain for OpenAI calls, it assists in analyzing and evaluating call content efficiently."
-            ],
-            "name": "Omind",
-            "link": "https://www.omind.ai/",
-            "time": "Oct 2023 - Jan 2025"
-        },
-        {
-            "organisation":"Actyv.ai",
-            "work":["Developed actyv.ai’s e-KYC verification platform with microservice architecture on the MERN stack, en-abling fully automatic identity verification and fraud detection.",
-            "Achieved results, reducing distributor onboarding time from 1 week to 2 hours and efficiently processing 12k+ verifications across 2 countries.",
-            "Responsible for operational excellence of platform which involved prevention and mitigation of issues eg. memory leak, VAPT, code review and quality assurance, user support and communication etc.",
-            "Developed multiple distributed background plugins, utilizing SQS and lambda, to enable smooth verification processes for Aadhaar, ITR, Driving license, Voter ID, CIN, PAN, Udyam, Passport OCR (valid for all countries), ESign, DigiLocker, and Emirates ID (UAE).",
-            "Developed and implemented responsive UI for all fraud checks using React and Redux, ensuring a seamless user experience across various devices."
-            
-            
-            ],
-            "name":"Actyv.ai",
-            "link":"https://www.actyv.ai",
-            "time": "Nov 2022 - Aug 2023"
-        }
-    ],
-    "testimonials": [
-        {
-            "value": "FullStack web Development",
-            "name": "Masai School",
-            "relation": "Jan 2022 - Nov 2022",
-            "pfp": "/masai.png",
-            "link": "https://www.masaischool.com/"
-        },
-        {
-            "value": "Bachelor of Technology (B. Tech.)",
-            "name": "Dr BC roy Engineering College",
-            "relation": "Aug 2014 - Nov 2018",
-            "pfp": "/bcrec.jpg",
-            "link": "https://bcrec.ac.in/"
-        }
-    ],
-    "links": [
-        {
-            "name": "LinkedIn",
-            "icon": "linkedin.svg",
-            "link": "https://www.linkedin.com/in/kunalabcd"
-        },
-        {
-            "name": "Mail me",
-            "icon": "mail.svg",
-            "link": "mailto:kunalpratap17@gmail.com"
-        },
-        {
-            "name": "Call me",
-            "icon": "call.svg",
-            "link": "tel:+918906694875"
-        },
-        {
-            "name": "WhatsApp me",
-            "icon": "whatsapp.svg",
-            "link": "https://wa.me/+918906694875"
-        },
-        {
-            "name": "GitHub",
-            "icon": "github.svg",
-            "link": "https://github.com/kunalpratapsinghh"
-        },
-        {
-            "name": "Twitter",
-            "icon": "twitter.svg",
-            "link": "https://twitter.com/orthodoxrajput"
-        },
-        {
-            "name": "Instagram",
-            "icon": "instagram.svg",
-            "link": "https://instagram.com/kunalabcd"
-        }
-    ]
+  "name": "Kunal Pratap Singh",
+  "image": "/me.png",
+  "profession": "Senior Software Engineer",
+  "intro": "Focused on building products that will make people's lives better. I also create content in form of blogs and threads. I love to learn new things and I am always open to learn new technologies.",
+  "about": "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  "website": "",
+  "skills": [
+    {
+      "src": "/logos/react.svg",
+      "name": "React",
+      "link": "https://reactjs.org/"
+    },
+    {
+      "src": "/logos/nextjs.svg",
+      "name": "Next",
+      "link": "https://nextjs.org/"
+    },
+    {
+      "src": "/logos/typescript.svg",
+      "name": "Typescript",
+      "link": "https://www.typescriptlang.org/"
+    },
+    {
+      "src": "/logos/mongodb.svg",
+      "name": "MongoDB",
+      "link": "https://www.mongodb.com/docs/"
+    },
+    {
+      "src": "/logos/chakra.png",
+      "name": "ChakraUI",
+      "link": "https://chakra-ui.com/getting-started"
+    },
+    {
+      "src": "/logos/html.png",
+      "name": "HTML",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+      "src": "/logos/css.png",
+      "name": "CSS",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "src": "/logos/nodejs.png",
+      "name": "Nodejs",
+      "link": "https://nodejs.org/"
+    },
+    {
+      "src": "/logos/sql.svg",
+      "name": "SQL",
+      "link": "https://www.w3schools.com/sql/"
+    },
+    {
+      "src": "/logos/express.svg",
+      "name": "Express.js",
+      "link": "https://expressjs.com/"
+    },
+    {
+      "src": "/logos/nestjs.svg",
+      "name": "NestJS",
+      "link": "https://nestjs.com/"
+    },
+    {
+      "src": "/logos/strapi.svg",
+      "name": "Strapi CMS",
+      "link": "https://strapi.io/"
+    },
+    {
+      "src": "/logos/socketio.svg",
+      "name": "Socket.IO",
+      "link": "https://socket.io/"
+    },
+    {
+      "src": "/logos/trpc.svg",
+      "name": "tRPC",
+      "link": "https://trpc.io/"
+    },
+    {
+      "src": "/logos/aws.svg",
+      "name": "AWS",
+      "link": "https://aws.amazon.com/"
+    },
+    {
+      "src": "/logos/knative.svg",
+      "name": "Knative",
+      "link": "https://knative.dev/"
+    },
+    {
+      "src": "/logos/docker.svg",
+      "name": "Docker",
+      "link": "https://www.docker.com/"
+    },
+    {
+      "src": "/logos/mysql.svg",
+      "name": "MySQL",
+      "link": "https://www.mysql.com/"
+    },
+    {
+      "src": "/logos/postgresql.svg",
+      "name": "PostgreSQL",
+      "link": "https://www.postgresql.org/"
+    },
+    {
+      "src": "/logos/openai.svg",
+      "name": "OpenAI",
+      "link": "https://openai.com/"
+    },
+    {
+      "src": "/logos/langchain.svg",
+      "name": "LangChain",
+      "link": "https://www.langchain.com/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Beauty bebo clone",
+      "image": "/projects/beautybebo.jpg",
+      "about": "We cloned this website in a span of seven days. The Tech stack used is Html CSS javascript.Various UI like slideshow,login-signup, payment etc are eye-catching.javascript functionality like API, local storage, slide show with the help of set interval etc is used.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "links": {
+        "GitHub": "https://github.com/KaustubhBadve/Beutybebo-Cloned",
+        "Live": "https://elegant-centaur-093589.netlify.app/"
+      },
+      "role": "Fullstack web3 developer"
+    },
+    {
+      "name": "Licious Clone",
+      "image": "/projects/licious.png",
+      "about": "This is our first project at Masai School using JavaScript, HTML, and CSS.We worked on the Licious website, an online Non-Vegetarian Food selling store.",
+      "tech": ["VScode", "HTML", "CSS", "JavaScript"],
+      "links": {
+        "GitHub": "https://github.com/g-utsav/LiciousClone",
+        "Live": "https://earnest-muffin-f6f57e.netlify.app/"
+      },
+      "role": "Lead developer"
+    },
+    {
+      "name": "Authentication & Api Call",
+      "image": "/projects/cynohub.png",
+      "about": "This Project consist signup snd login with the help of mongoDB database, without login you will not be able to see any pages . For the UI ,Chakra-UI is used.",
+      "tech": [
+        "Node.js",
+        "React.js",
+        "CSS",
+        "JavaScript",
+        "Mongodb",
+        "ChakraUI"
+      ],
+      "links": {
+        "GitHub": "https://github.com/kunalpratapsinghh/cynohub",
+        "Live": "https://cynohubkunal.netlify.app/"
+      },
+      "role": "Co-builder"
+    },
+    {
+      "name": "Lifestylestores clone",
+      "image": "/projects/life.png",
+      "about": "A lifestyle store is a retail store selling a wide variety of product categories under a single brand. It is designed to associate a brand with one or another aspirational lifestyle. Lifestyle stores may include clothing, housewares, furniture, stationery, gifts, and so on.",
+      "tech": ["Node.js", "React.js", "CSS", "JavaScript", "ChakraUI"],
+      "links": {
+        "GitHub": "https://github.com/kunalpratapsinghh/Lifestylestores_Clone",
+        "Live": "https://dazzling-semifreddo-d2378f.netlify.app/"
+      },
+      "role": "Co-builder"
+    }
+  ],
+  "experience": [
+    {
+      "organisation": "Reward360 Global Services",
+      "work": [
+        "Architected Loyalty OS, a configuration-driven travel integration platform that standardized OTA contracts/APIs, reducing new provider onboarding time by 80%.",
+        "Designed and developed high-performance Flights, Hotels, and Bus booking modules, including hotel listings, checkout flows, fare comparison, and multi-date pricing.",
+        "Integrated multiple OTA providers (Yatra, MMT, Cleartrip, etc.) using concurrent API orchestration, significantly improving hotel search and detail page response times.",
+        "Built an Internal Developer Platform (IDP) using Next.js, Monaco Editor, and Knative FaaS, enabling developers to create, test, and deploy serverless handlers through a unified interface.",
+        "Developed a real-time Agent Concierge Platform using React, Tailwind CSS, and Socket.IO, featuring live agent monitoring and booking management that reduced call handling latency by 20%.",
+        "Implemented geospatial hotel discovery using React-Leaflet with a fully responsive UI, improving travel search usability across desktop and mobile devices."
+      ],
+      "name": "Reward360 Global Services",
+      "link": "https://www.reward360.co/",
+      "time": "Jan 2025 - Present",
+      "role": "Senior Software Engineer"
+    },
+    {
+      "organisation": "Omind",
+      "work": [
+        "Set up CRM integration for easy Excel uploads, helping QA teams in BPO audits. Also, created a strong Excel filtering system to better manage and analyze data. Features include saving filters and random assignment, covering various criteria like call duration and time range.",
+        "Designed a notice feed allowing admins and QAs to post, with acknowledgment and commenting features for agents, admins, and QAs; creators can also delete and hide posts.",
+        "Developed a dynamic audit sheet with editable parameters and subparameters, including weightage assignment. Integrated custom field functionality in audit sheet using form renderer to capture data effectively",
+        "Designed a test interface accessible to both agents and admins. Agents can complete tests, while admins have the capability to create new tests directly within the interface.",
+        "Developed an AI co-pilot to aid QA in call auditing. Leveraging Deepgram for transcription and Langchain for OpenAI calls, it assists in analyzing and evaluating call content efficiently."
+      ],
+      "name": "Omind",
+      "link": "https://www.omind.ai/",
+      "time": "Oct 2023 - Jan 2025"
+    },
+    {
+      "organisation": "Actyv.ai",
+      "work": [
+        "Developed actyv.ai’s e-KYC verification platform with microservice architecture on the MERN stack, en-abling fully automatic identity verification and fraud detection.",
+        "Achieved results, reducing distributor onboarding time from 1 week to 2 hours and efficiently processing 12k+ verifications across 2 countries.",
+        "Responsible for operational excellence of platform which involved prevention and mitigation of issues eg. memory leak, VAPT, code review and quality assurance, user support and communication etc.",
+        "Developed multiple distributed background plugins, utilizing SQS and lambda, to enable smooth verification processes for Aadhaar, ITR, Driving license, Voter ID, CIN, PAN, Udyam, Passport OCR (valid for all countries), ESign, DigiLocker, and Emirates ID (UAE).",
+        "Developed and implemented responsive UI for all fraud checks using React and Redux, ensuring a seamless user experience across various devices."
+      ],
+      "name": "Actyv.ai",
+      "link": "https://www.actyv.ai",
+      "time": "Nov 2022 - Aug 2023"
+    }
+  ],
+  "testimonials": [
+    {
+      "value": "FullStack web Development",
+      "name": "Masai School",
+      "relation": "Jan 2022 - Nov 2022",
+      "pfp": "/masai.png",
+      "link": "https://www.masaischool.com/"
+    },
+    {
+      "value": "Bachelor of Technology (B. Tech.)",
+      "name": "Dr BC roy Engineering College",
+      "relation": "Aug 2014 - Nov 2018",
+      "pfp": "/bcrec.jpg",
+      "link": "https://bcrec.ac.in/"
+    }
+  ],
+  "links": [
+    {
+      "name": "LinkedIn",
+      "icon": "linkedin.svg",
+      "link": "https://www.linkedin.com/in/kunalabcd"
+    },
+    {
+      "name": "Mail me",
+      "icon": "mail.svg",
+      "link": "mailto:kunalpratap17@gmail.com"
+    },
+    {
+      "name": "Call me",
+      "icon": "call.svg",
+      "link": "tel:+918906694875"
+    },
+    {
+      "name": "WhatsApp me",
+      "icon": "whatsapp.svg",
+      "link": "https://wa.me/+918906694875"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github.svg",
+      "link": "https://github.com/kunalpratapsinghh"
+    },
+    {
+      "name": "Twitter",
+      "icon": "twitter.svg",
+      "link": "https://twitter.com/orthodoxrajput"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram.svg",
+      "link": "https://instagram.com/kunalabcd"
+    }
+  ]
 }

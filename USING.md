@@ -9,20 +9,20 @@ Now give your repository a name and you can give some additional details if you 
 
 ### Running the template
 
--   Clone the repository you have been redirected to by
+- Clone the repository you have been redirected to by
 
 ```
 git clone url
 ```
 
--   Installing the node modules
+- Installing the node modules
 
 ```
 yarn install # yarn
 npm install # npm
 ```
 
--   Starting the server
+- Starting the server
 
 ```
 npm run dev # yarn
@@ -45,13 +45,13 @@ git push
 
 ## Deploying
 
--   Go to [Vercel](https://vercel.com/dashboard)
--   Sign up for an account
--   Click on New project
--   Import your repository
--   Click skip while creating a team and then hit deploy
--   After it is deployed click on go to dashboard
--   Your site is successfully deployed 🥳
--   Now grab the URL and show it to world
+- Go to [Vercel](https://vercel.com/dashboard)
+- Sign up for an account
+- Click on New project
+- Import your repository
+- Click skip while creating a team and then hit deploy
+- After it is deployed click on go to dashboard
+- Your site is successfully deployed 🥳
+- Now grab the URL and show it to world
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631621350017/GifQ52-5W.png)

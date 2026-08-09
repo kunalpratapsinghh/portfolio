@@ -1,2 +1,2 @@
-export * from './ProjectType';
-export * from './PostType';
+export * from "./ProjectType";
+export * from "./PostType";

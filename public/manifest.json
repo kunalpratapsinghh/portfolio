@@ -1,11 +1,11 @@
 {
-    "theme_color": "#52DEE5",
-    "background_color": "#222E50",
-    "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
-    "name": "Kunal Pratap Singh",
-    "short_name": "Kunal",
-    "description": "Kunal's portfolio",
-    "icons": [ ]
+  "theme_color": "#52DEE5",
+  "background_color": "#222E50",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Kunal Pratap Singh",
+  "short_name": "Kunal",
+  "description": "Kunal's portfolio",
+  "icons": []
 }
