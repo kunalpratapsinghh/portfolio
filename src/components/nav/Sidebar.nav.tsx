@@ -20,8 +20,8 @@ const SideBar: NextComponentType = () => {
       )}
 
       <div
-        className={`bg-bgblue px-10 flex-col gap-4 flex md:hidden justify-center items-center fixed min-h-[120vh] top-0 right-0 z-50
-                    transition-all duration-500 ease-in-out 
+        className={`bg-bgblue px-10 flex-col gap-4 flex md:hidden justify-start items-center pt-24 fixed min-h-[120vh] top-0 right-0 z-50
+                    transition-all duration-500 ease-in-out
                     ${showSidebar ? "translate-x-0 " : "translate-x-full"}`}
       >
         <div
@@ -32,7 +32,12 @@ const SideBar: NextComponentType = () => {
         </div>
         <div className="flex flex-col gap-4">
           {navOptions.map((option, i) => (
-            <NavOption item={option} key={option.name} number={i + 1} />
+            <NavOption
+              item={option}
+              key={option.name}
+              number={i + 1}
+              onSelect={() => setShowSidebar(false)}
+            />
           ))}
         </div>
       </div>
