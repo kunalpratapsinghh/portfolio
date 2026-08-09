@@ -1,5 +1,5 @@
 import data from "@/data/data.json";
-import { Html, NextScript, Head } from "next/document";
+import { Html, Main, NextScript, Head } from "next/document";
 
 const Document = () => {
   return (
@@ -8,6 +8,7 @@ const Document = () => {
         <link href="/kunalFavicon.png" rel="icon" />
       </Head>
       <body>
+        <Main />
         <NextScript />
       </body>
     </Html>
