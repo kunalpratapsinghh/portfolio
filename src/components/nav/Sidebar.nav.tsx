@@ -12,7 +12,7 @@ const SideBar: NextComponentType = () => {
     <>
       {!showSidebar && (
         <div
-          className="bg-white cursor-pointer md:hidden fixed grid h-14 place-items-center right-10 rounded-full top-4 w-14 z-50"
+          className="bg-white cursor-pointer md:hidden fixed grid h-14 place-items-center right-2 rounded-full top-4 w-14 z-50"
           onClick={() => setShowSidebar(true)}
         >
           <FiMenu color="black" size="30" />
